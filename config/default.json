@@ -1,0 +1,4 @@
+{
+    "mongouri" : "mongodb+srv://hemanthtallam:HEMU2000@devconnector.rvggi.mongodb.net/devConnector?retryWrites=true&w=majority",
+    "jwtSecret": "Tallam@0606"
+}
